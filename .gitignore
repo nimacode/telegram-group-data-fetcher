@@ -1,0 +1,5 @@
+.env
+users.db
+__pycache__/
+venv/
+session_name.session

@@ -1,0 +1,9 @@
+inquirerpy==0.3.4
+pfzy==0.3.4
+prompt_toolkit==3.0.50
+pyaes==1.6.1
+pyasn1==0.6.1
+python-dotenv==1.1.0
+rsa==4.9
+Telethon==1.39.0
+wcwidth==0.2.13
