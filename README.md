@@ -69,7 +69,7 @@ python main.py
 * state: Keeps track of the last scanned message for each group
 
 📦 Output
-All data is stored locally in users.db and can be exported or analyzed however you like (e.g., to CSV or Excel).
+All data is stored locally in telegram.db and can be exported or analyzed however you like (e.g., to CSV or Excel).
 
 📝 License
 MIT License
